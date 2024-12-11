@@ -59,7 +59,7 @@ body {
 	}
 }
   .youtube-button {
-	background-color: white; /* 버튼 배경색 */
+	background-color: #004fff; /* 버튼 배경색 */
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -80,7 +80,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .naver-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -101,7 +101,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .google-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -122,7 +122,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .netflix-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -147,7 +147,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .db-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -168,7 +168,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .gmarket-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -189,7 +189,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .coupang-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -210,7 +210,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .daum-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -231,7 +231,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .daum-news-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -252,7 +252,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .daum-weather-button{
-	background-color: white;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -273,7 +273,7 @@ body {
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
 .chzzk-button{
-	background-color: whitesmoke;
+	background-color: #004fff;
 	color: white; /* 버튼 글자색 */
 	padding: 10px 20px; /* 버튼 안쪽 여백 */
 	text-align: center; /* 버튼 텍스트 가운데 정렬 */
@@ -291,6 +291,48 @@ body {
 	
 }
 .chzzk-button:hover{
+	background-color: rgba(0, 79, 255, 0.56);
+	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
+}
+.github-button{
+	background-color: #004fff;
+	color: white; /* 버튼 글자색 */
+	padding: 10px 20px; /* 버튼 안쪽 여백 */
+	text-align: center; /* 버튼 텍스트 가운데 정렬 */
+	text-decoration: none; /* 밑줄 제거 */
+	display: inline-block; /* 인라인 블록 요소로 설정 */
+	font-size: 20px; /* 글자 크기 */
+	border: none; /* 테두리 없애기 */
+	border-radius: 16px; /* 모서리 둥글게 만들기 */
+	cursor: pointer; /* 마우스 커서를 포인터 모양으로 변경 */
+	font-weight: bold;
+	position: absolute;
+	top:55px;
+	left: 1305px;
+	transition: 0.5s;
+}
+.github-button:hover{
+	background-color: rgba(0, 79, 255, 0.56);
+	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
+}
+.codepen{
+	background-color: #004fff;
+	color: white; /* 버튼 글자색 */
+	padding: 10px 20px; /* 버튼 안쪽 여백 */
+	text-align: center; /* 버튼 텍스트 가운데 정렬 */
+	text-decoration: none; /* 밑줄 제거 */
+	display: inline-block; /* 인라인 블록 요소로 설정 */
+	font-size: 20px; /* 글자 크기 */
+	border: none; /* 테두리 없애기 */
+	border-radius: 16px; /* 모서리 둥글게 만들기 */
+	cursor: pointer; /* 마우스 커서를 포인터 모양으로 변경 */
+	font-weight: bold;
+	position: absolute;
+	top:55px;
+	left: 1415px;
+	transition: 0.5s;
+}
+.codepen:hover{
 	background-color: rgba(0, 79, 255, 0.56);
 	box-shadow:2px 4px rgba(0, 79, 255, 0.4);
 }
